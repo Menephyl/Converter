@@ -1,2 +1,2 @@
-# Converter
- Currency converter 
+# Projeto de curso - javascript - conversor monetário 
+ 
